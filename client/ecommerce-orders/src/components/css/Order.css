@@ -1,0 +1,23 @@
+.order-card {
+  background-color: green;
+  color: white; /* Ensure text is readable on green background */
+}
+
+.order-id {
+  color: black;
+  font-size: 1.5em;
+}
+
+.order-customer {
+  color: blue;
+}
+
+.btn-primary {
+  background-color: yellow;
+  color: black;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #ffd700;
+}

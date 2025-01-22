@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "customer": "Alice Johnson",
+      "total": 120.5,
+      "status": "Shipped",
+     
+      "items": [
+        { "name": "Laptop", "quantity": 1, "price": 100 },
+        { "name": "Mouse", "quantity": 1, "price": 20.5 }
+      ]
+    },
+    {
+      "id": 2,
+      "customer": "Bob Smith",
+      "total": 50,
+      "status": "Pending",
+     
+      "items": [
+        { "name": "Keyboard", "quantity": 1, "price": 50 }
+      ]
+    },
+    {
+      "id": 3,
+      "customer": "Catherine Green",
+      "total": 75.2,
+      "status": "Delivered",
+     
+      "items": [
+        { "name": "Headphones", "quantity": 1, "price": 40 },
+        { "name": "Phone Case", "quantity": 1, "price": 15.2 },
+        { "name": "Charger", "quantity": 1, "price": 20 }
+      ]
+    },
+    {
+      "id": 4,
+      "customer": "David Brown",
+      "total": 299.99,
+      "status": "Shipped",
+     
+      "items": [
+        { "name": "Gaming Chair", "quantity": 1, "price": 299.99 }
+      ]
+    },
+    {
+      "id": 5,
+      "customer": "Ella White",
+      "total": 150,
+      "status": "Cancelled",
+     
+      "items": [
+        { "name": "Monitor", "quantity": 1, "price": 150 }
+      ]
+    },
+    {
+      "id": 6,
+      "customer": "Franklin Adams",
+      "total": 180.75,
+      "status": "Delivered",
+     
+      "items": [
+        { "name": "Desk Lamp", "quantity": 2, "price": 30 },
+        { "name": "Bookshelf", "quantity": 1, "price": 120.75 }
+      ]
+    },
+    {
+      "id": 7,
+      "customer": "Grace Lee",
+      "total": 85,
+      "status": "Shipped",
+    
+      "items": [
+        { "name": "Yoga Mat", "quantity": 1, "price": 25 },
+        { "name": "Dumbbells", "quantity": 1, "price": 60 }
+      ]
+    },
+    {
+      "id": 8,
+      "customer": "Hannah Taylor",
+      "total": 500,
+      "status": "Pending",
+
+      "items": [
+        { "name": "Smartphone", "quantity": 1, "price": 500 }
+      ]
+    },
+    {
+      "id": 9,
+      "customer": "Isaac Clarke",
+      "total": 235.6,
+      "status": "Delivered",
+      
+      "items": [
+        { "name": "Drone", "quantity": 1, "price": 200 },
+        { "name": "Extra Battery Pack", "quantity": 1, "price": 35.6 }
+      ]
+    },
+    {
+      "id": 10,
+      "customer": "Julia King",
+      "total": 400.99,
+      "status": "Shipped",
+    
+      "items": [
+        { "name": "Camera", "quantity": 1, "price": 350 },
+        { "name": "Tripod", "quantity": 1, "price": 50.99 }
+      ]
+    }
+  ]
+  
